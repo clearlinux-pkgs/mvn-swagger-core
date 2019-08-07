@@ -4,7 +4,7 @@
 #
 Name     : mvn-swagger-core
 Version  : 1.5.4
-Release  : 1
+Release  : 2
 URL      : https://github.com/swagger-api/swagger-core/archive/v1.5.4.tar.gz
 Source0  : https://github.com/swagger-api/swagger-core/archive/v1.5.4.tar.gz
 Source1  : https://repo1.maven.org/maven2/io/swagger/swagger-annotations/1.5.4/swagger-annotations-1.5.4.jar
